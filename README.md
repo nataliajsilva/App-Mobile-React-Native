@@ -4,10 +4,10 @@ Trabalho final matéria Mobile Development, desenvolvimento de App Mobile com Re
 #### **Professor:** 
 - *Uedson Reis*
 
-*Atividade proposta:* 
+#### *Atividade proposta:* 
 Desenvolvimento de um App Mobile com React Native, criando tela para cadastro de usuário, login no aplicativo e listagem de produtos, consumindo as APIs disponibilizadas:
 
-*Documentação das Apis:
+*Documentação das Apis:*
 https://example-ecommerce.herokuapp.com/swagger-ui.html
 
 *Cadastrar Usuário:*
