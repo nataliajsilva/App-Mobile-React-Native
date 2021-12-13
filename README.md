@@ -1,4 +1,4 @@
-# App-Mobile-React-Native - Curso:** *MBA Full Stack Developer
+# App-Mobile-React-Native - Curso: MBA Full Stack Developer
 Trabalho final matéria Mobile Development, desenvolvimento de App Mobile com React Native.
 
 #### **Professor:** 
