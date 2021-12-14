@@ -3,17 +3,18 @@ import { Dimensions, StyleSheet } from 'react-native';
 export default StyleSheet.create({
 
     container: {
-        padding: 15,
-        marginTop: 10,
-        borderWidth: 1,
-        borderRadius: 25,
-        borderColor: 'gray',
-        width: Dimensions.get('window').width - 20,
-    },
+        flex: 1,
+        padding: 24
+      },
+      row: {
+        padding: 4,
+        borderBottomColor: "blue",
+        borderBottomWidth: StyleSheet.hairlineWidth
+      },
 
     container_fabricante: {
         padding: 7,
-        marginTop: 5,
+        marginTop: 3,
         borderWidth: 1,
         borderRadius: 5,
         borderColor: 'gray'
@@ -25,7 +26,7 @@ export default StyleSheet.create({
     },
 
     title: {
-        fontSize: 18,
+        fontSize: 20,
         fontWeight: "bold"
     }
 

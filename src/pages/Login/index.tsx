@@ -42,10 +42,10 @@ export default function Login() {
 
     return (
         <View style={styles.container}>
-            <MyTextInput title="E-mail:" value={email} onChangeText={setEmail} />
+            <MyTextInput title="Emai-l user:" value={email} onChangeText={setEmail} />
 
             <MyTextInput
-                title="Senha:"
+                title="Password:"
                 value={password}
                 secureTextEntry={true}
                 onChangeText={setPassword}

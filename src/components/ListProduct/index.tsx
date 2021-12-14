@@ -15,11 +15,11 @@ export default function ListProduct({ product }: Props) {
             <Text style={styles.text}>Nome: {product.name}</Text>
             <Text style={styles.text}>Quantidade: {product.amount}</Text>
             <Text style={styles.text}>Preço: {product.price}</Text>
-            <View style={styles.container_fabricante}>
-                <Text style={styles.title}>Dados do Fabricante </Text>
-                <Text style={styles.text}>Id: {product.factory.id}</Text>
-                <Text style={styles.text}>Nome: {product.factory.name}</Text>
-            </View>
+            <Text style={styles.title}>Dados do Fabricante </Text>
+            <Text style={styles.text}>Id: {product.factory.id}</Text>
+            <Text style={styles.text}>Nome: {product.factory.name}</Text>
+            <Text style={styles.row}></Text>
         </View>
     );
 }
+

@@ -11,7 +11,7 @@ export default StyleSheet.create({
         fontSize: 17,
         borderWidth: 1,
         marginBottom: 15,
-        width: Dimensions.get('window').width - 40,
+        width: Dimensions.get('window').width - 100,
     }
 
 }
