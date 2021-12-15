@@ -21,6 +21,4 @@ https://example-ecommerce.herokuapp.com/product/list
 
 #### *Telas desenvolvidas:*
 
-<img src="Screenshot_2021-12-14-20-58-08-535_host.exp.exponent.jpg" width="400px" /> 
-
-
+<img src="https://user-images.githubusercontent.com/55218309/146100460-45746cb1-8ffc-4bc7-bcfc-66cb5a8da970.jpg" width="250"> <img src="https://user-images.githubusercontent.com/55218309/146099996-32026cea-d125-4ef9-9240-ad3bce9a9f3e.jpg" width="250">  <img src="https://user-images.githubusercontent.com/55218309/146100414-d030384e-219e-470c-b3d4-ab111594e301.jpg" width="250"> 
