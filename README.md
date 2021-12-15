@@ -21,5 +21,7 @@ https://example-ecommerce.herokuapp.com/product/list
 
 #### *Telas desenvolvidas:*
 
-![alt text](http://url/to/img.png)
+<div align="center">
+    <img src="/Screenshot_2021-12-14-20-58-08-535_host.exp.exponent.jpg" width="400px"</img> 
+</div>
 
