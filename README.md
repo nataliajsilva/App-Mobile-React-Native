@@ -21,5 +21,5 @@ https://example-ecommerce.herokuapp.com/product/list
 
 #### *Telas desenvolvidas:*
 
-![Alt text](/../<branch name>/path/to/image.png?raw=true "Optional Title")
+![alt text](http://url/to/img.png)
 
